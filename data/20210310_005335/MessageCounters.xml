@@ -1,0 +1,12 @@
+<MessageCounters>
+  <Row SoundingIdPk="54935534-9f64-47eb-9f38-5c62da6ac344" MessageTypeNamePk="BUFR309052_all" Counter="1" />
+  <Row SoundingIdPk="54935534-9f64-47eb-9f38-5c62da6ac344" MessageTypeNamePk="PILOT MOBIL A" Counter="0" />
+  <Row SoundingIdPk="54935534-9f64-47eb-9f38-5c62da6ac344" MessageTypeNamePk="PILOT MOBIL B" Counter="0" />
+  <Row SoundingIdPk="54935534-9f64-47eb-9f38-5c62da6ac344" MessageTypeNamePk="PILOT MOBIL C" Counter="0" />
+  <Row SoundingIdPk="54935534-9f64-47eb-9f38-5c62da6ac344" MessageTypeNamePk="PILOT MOBIL D" Counter="0" />
+  <Row SoundingIdPk="54935534-9f64-47eb-9f38-5c62da6ac344" MessageTypeNamePk="SoundingQualityReport" Counter="0" />
+  <Row SoundingIdPk="54935534-9f64-47eb-9f38-5c62da6ac344" MessageTypeNamePk="TEMP MOBIL A" Counter="0" />
+  <Row SoundingIdPk="54935534-9f64-47eb-9f38-5c62da6ac344" MessageTypeNamePk="TEMP MOBIL B" Counter="0" />
+  <Row SoundingIdPk="54935534-9f64-47eb-9f38-5c62da6ac344" MessageTypeNamePk="TEMP MOBIL C" Counter="0" />
+  <Row SoundingIdPk="54935534-9f64-47eb-9f38-5c62da6ac344" MessageTypeNamePk="TEMP MOBIL D" Counter="0" />
+</MessageCounters>

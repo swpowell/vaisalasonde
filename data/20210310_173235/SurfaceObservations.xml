@@ -1,0 +1,3 @@
+<SurfaceObservations>
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" DataSrvTime="2021-03-10T17:34:02.6068681" Pressure="1012.77001953125" LaunchSitePressure="1012.77001953125" Temperature="284.79000854492188" Humidity="65.5999984741211" WindDirection="180" WindSpeed="1" CloudGroup="/////" SpecialGroup1="/////" SpecialGroup2="/////" AsapStatus="-32768" SeaWaterTemperature="-32768" Source="0" Mode="3" />
+</SurfaceObservations>

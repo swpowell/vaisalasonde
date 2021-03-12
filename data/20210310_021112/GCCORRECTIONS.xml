@@ -1,0 +1,3 @@
+<GCCORRECTIONS>
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" DataSrvTimePk="2021-03-10T02:11:10.2943056" PressureReference="1016.5900268554688" TemperatureReference="-32768" HumidityReference="-32768" UserPressureReference="-32768" UserTemperatureReference="-32768" UserHumidityReference="-32768" SondePressure="1014.1492309570313" SondeTemperature="-32768" SondeHumidity1="-32768" SondeHumidity2="-32768" PressureDiffLimit="3" TemperatureDiffLimit="-32768" HumidityDiffLimit="-32768" />
+</GCCORRECTIONS>

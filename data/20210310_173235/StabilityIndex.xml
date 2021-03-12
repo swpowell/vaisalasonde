@@ -1,0 +1,23 @@
+<StabilityIndex>
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="LCL_T" OrderPk="1" Value="277.22703837641785" DataSrvTime="2021-03-10T17:34:07.9597421" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="LCL_P" OrderPk="1" Value="921.80622505550366" DataSrvTime="2021-03-10T17:34:07.9884991" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="LCL_Z" OrderPk="1" Value="775.02120119876781" DataSrvTime="2021-03-10T17:36:51.0854793" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="LFC_P" OrderPk="1" Value="921.80622505550366" DataSrvTime="2021-03-10T17:36:51.0861180" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="LFC_T" OrderPk="1" Value="277.22703837641785" DataSrvTime="2021-03-10T17:36:51.0864282" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="LFC_Z" OrderPk="1" Value="775.02120119876781" DataSrvTime="2021-03-10T17:36:51.0866981" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="CINH" OrderPk="1" Value="0" DataSrvTime="2021-03-10T17:36:51.0871928" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="FreezingLevel" OrderPk="1" Value="884.56231877025584" DataSrvTime="2021-03-10T17:38:11.8165944" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="LI" OrderPk="1" Value="-0.43112280783151391" DataSrvTime="2021-03-10T17:51:59.5443018" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="SI" OrderPk="1" Value="1.6782521921684861" DataSrvTime="2021-03-10T17:51:59.5449150" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="K_index" OrderPk="1" Value="22.892920241947252" DataSrvTime="2021-03-10T17:51:59.5452699" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="TT_index" OrderPk="1" Value="58.523675396149713" DataSrvTime="2021-03-10T17:51:59.5456969" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="S_index" OrderPk="1" Value="55.306464924778709" DataSrvTime="2021-03-10T17:51:59.5460021" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="Ko_index" OrderPk="1" Value="-0.53006266747709674" DataSrvTime="2021-03-10T17:51:59.5463254" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="EL_P" OrderPk="1" Value="383.78182354569435" DataSrvTime="2021-03-10T17:58:02.2105676" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="EL_T" OrderPk="1" Value="227.28085937499998" DataSrvTime="2021-03-10T17:58:02.2112986" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="EL_Z" OrderPk="1" Value="7210.9532235766383" DataSrvTime="2021-03-10T17:58:02.2115682" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="CAPE" OrderPk="1" Value="715.93115652810116" DataSrvTime="2021-03-10T17:58:02.2119759" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="CCL_P" OrderPk="1" Value="921.65355974435806" DataSrvTime="2021-03-10T18:04:41.8479707" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="CCL_T" OrderPk="1" Value="275.7551545122808" DataSrvTime="2021-03-10T18:04:41.8485852" />
+  <Row SoundingIdPk="31725a7c-5a4f-4b5c-ba0d-2e645df7b532" NamePk="CCL_Z" OrderPk="1" Value="776.5394466819198" DataSrvTime="2021-03-10T18:04:41.8491271" />
+</StabilityIndex>

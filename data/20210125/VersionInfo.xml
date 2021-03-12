@@ -1,0 +1,9 @@
+<VersionInfo>
+  <Row SoundingIdPk="47358faf-77d4-493b-ac43-53634908a54d" DevicePk="GC" UnitPk="DeviceType" Version="RI41" />
+  <Row SoundingIdPk="47358faf-77d4-493b-ac43-53634908a54d" DevicePk="MW41" UnitPk="SoundingSoftwareVersion" Version="2.6.0.45" />
+  <Row SoundingIdPk="47358faf-77d4-493b-ac43-53634908a54d" DevicePk="RI41" UnitPk="HardwareVersion" Version="0x70" />
+  <Row SoundingIdPk="47358faf-77d4-493b-ac43-53634908a54d" DevicePk="RI41" UnitPk="PressureModuleVersion" Version="BARO-1 Version 1.026" />
+  <Row SoundingIdPk="47358faf-77d4-493b-ac43-53634908a54d" DevicePk="RI41" UnitPk="SoftwareVersion" Version="2.04" />
+  <Row SoundingIdPk="47358faf-77d4-493b-ac43-53634908a54d" DevicePk="SoundingFx" UnitPk="" Version="3.0.7.48609" />
+  <Row SoundingIdPk="47358faf-77d4-493b-ac43-53634908a54d" DevicePk="VaisalaFx" UnitPk="" Version="2.0.5.3932" />
+</VersionInfo>

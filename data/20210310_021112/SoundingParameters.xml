@@ -1,0 +1,549 @@
+<SoundingParameters>
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.AWSDevice" ParameterType="9" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.MAWS.BaudRate" ParameterType="9" IsArrayParameter="False" ParameterValue="9600" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.MAWS.DataBits" ParameterType="9" IsArrayParameter="False" ParameterValue="8" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.MAWS.DeviceId" ParameterType="18" IsArrayParameter="False" ParameterValue="A" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.MAWS.Parity" ParameterType="18" IsArrayParameter="False" ParameterValue="None" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.MAWS.RxTimeout" ParameterType="9" IsArrayParameter="False" ParameterValue="5000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.MAWS.StopBits" ParameterType="18" IsArrayParameter="False" ParameterValue="One" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.MAWS.TxTimeout" ParameterType="9" IsArrayParameter="False" ParameterValue="5000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.MILOS520.BaudRate" ParameterType="9" IsArrayParameter="False" ParameterValue="9600" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.MILOS520.DataBits" ParameterType="9" IsArrayParameter="False" ParameterValue="8" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.MILOS520.Parity" ParameterType="18" IsArrayParameter="False" ParameterValue="None" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.MILOS520.RxTimeout" ParameterType="9" IsArrayParameter="False" ParameterValue="5000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.MILOS520.StopBits" ParameterType="18" IsArrayParameter="False" ParameterValue="One" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.MILOS520.TxTimeout" ParameterType="9" IsArrayParameter="False" ParameterValue="5000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.PollInterval" ParameterType="9" IsArrayParameter="False" ParameterValue="10" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.TACMET.BaudRate" ParameterType="9" IsArrayParameter="False" ParameterValue="9600" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.TACMET.DataBits" ParameterType="9" IsArrayParameter="False" ParameterValue="8" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.TACMET.Parity" ParameterType="18" IsArrayParameter="False" ParameterValue="None" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.TACMET.RxTimeout" ParameterType="9" IsArrayParameter="False" ParameterValue="5000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.TACMET.StopBits" ParameterType="18" IsArrayParameter="False" ParameterValue="One" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.TACMET.TxTimeout" ParameterType="9" IsArrayParameter="False" ParameterValue="5000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.WXT510.BaudRate" ParameterType="9" IsArrayParameter="False" ParameterValue="19200" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.WXT510.DataBits" ParameterType="9" IsArrayParameter="False" ParameterValue="8" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.WXT510.Parity" ParameterType="18" IsArrayParameter="False" ParameterValue="None" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.WXT510.RxTimeout" ParameterType="9" IsArrayParameter="False" ParameterValue="5000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.WXT510.StopBits" ParameterType="18" IsArrayParameter="False" ParameterValue="One" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.AWS.WXT510.TxTimeout" ParameterType="9" IsArrayParameter="False" ParameterValue="5000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.ComPorts.COM5" ParameterType="18" IsArrayParameter="False" ParameterValue="RI41" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.ExternalDevice.COMPort" ParameterType="18" IsArrayParameter="False" ParameterValue=" " />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.ExternalDevice.Credentials.Password" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.ExternalDevice.Credentials.UserName" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.ExternalDevice.FilePath" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.MessagePath" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.NetworkManagerConfiguration" ParameterType="18" IsArrayParameter="False" ParameterValue="{&quot;connected&quot;:false,&quot;serverAddress&quot;:&quot;&quot;,&quot;portNumber&quot;:8443,&quot;soundingInterval&quot;:12,&quot;mw41ToNmAuthenticationKey&quot;:&quot;&quot;,&quot;mw41ToNmAuthenticationSecret&quot;:&quot;&quot;,&quot;mw41SourceRegistrationId&quot;:&quot;&quot;}" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.Printer.UsedPrinter" ParameterType="18" IsArrayParameter="False" ParameterValue="None" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.RI41.BaudRate" ParameterType="18" IsArrayParameter="False" ParameterValue="19200" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.RT20.BaudRate" ParameterType="9" IsArrayParameter="False" ParameterValue="9600" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.RT20.EnableRTSimulation" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.RT20.Enabled" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.SWRadio.AntennaType" ParameterType="18" IsArrayParameter="False" ParameterValue="IPC_ANTENNA_DIRECTIONAL" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.SWRadio.Enabled" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.SWRadio.LocalIPAddress" ParameterType="18" IsArrayParameter="False" ParameterValue="192.168.0.30" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.SWRadio.RadioURI" ParameterType="18" IsArrayParameter="False" ParameterValue="192.168.0.10" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Devices.SWRadio.SignalThreshold" ParameterType="14" IsArrayParameter="False" ParameterValue="10" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="GUI.Delays.DataTimeOut" ParameterType="9" IsArrayParameter="False" ParameterValue="5" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="GUI.Delays.SoundingControlTransferTimeOut" ParameterType="9" IsArrayParameter="False" ParameterValue="60" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="GUI.Formats.Date" ParameterType="18" IsArrayParameter="False" ParameterValue="yyyy-MM-dd" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="GUI.Formats.TimeShort" ParameterType="18" IsArrayParameter="False" ParameterValue="HH:mm" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="GUI.Locale" ParameterType="18" IsArrayParameter="False" ParameterValue="en_US" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="GUI.Preparation.ShowTriggers" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="GUI.SessionExpirationTimeOut" ParameterType="9" IsArrayParameter="False" ParameterValue="30" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="GUI.SondeSelection.ShowRadioSpectrum" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.ContinueDescendingSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.EnablePtuFilter" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.EnableStabilityIndexCalculation" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.EnableSynchronizedSoundingData" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.GPS Calculation.EnableWeighting" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.GPS Calculation.UseDiffCorrections" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.MilGpsCalculation.ElevationScoring" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.MilGpsCalculation.MaxNumberOfCombinations" ParameterType="9" IsArrayParameter="False" ParameterValue="10000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.PtuFilter.AdiabaticDurationCheckStartTime" ParameterType="9" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.PtuFilter.EnableResearchMode" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.PtuFilter.IncludeSurfaceLevelToAdiabaticTest" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.PtuFilter.MinAdiabaticLayerDuration" ParameterType="14" IsArrayParameter="False" ParameterValue="2.5" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.PtuFilter.MinAscentRate" ParameterType="14" IsArrayParameter="False" ParameterValue="0.5" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.PtuFilter.PtuFindingType" ParameterType="9" IsArrayParameter="False" ParameterValue="1" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.PtuFilter.UseRadiationCorrection" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.RDFCalculation.RT20MinElevation" ParameterType="14" IsArrayParameter="False" ParameterValue="13" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.IgnoreDuration" ParameterType="9" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.PtuCriteria.Force100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.PtuCriteria.Force1stSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.PtuCriteria.Humidity.ForceRHwithT" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.PtuCriteria.Humidity.Tolerance" ParameterType="14" IsArrayParameter="False" ParameterValue="15" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.PtuCriteria.Humidity.ToleranceToJoinWithTemp" ParameterType="14" IsArrayParameter="False" ParameterValue="6" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.PtuCriteria.IsoInvLayers.HumidityChange" ParameterType="14" IsArrayParameter="False" ParameterValue="20" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.PtuCriteria.IsoInvLayers.PressureLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="300" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.PtuCriteria.IsoInvLayers.TempTreshold" ParameterType="14" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.PtuCriteria.IsoInvLayers.Thickness" ParameterType="14" IsArrayParameter="False" ParameterValue="20" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.PtuCriteria.LowestTropopauseLevel" ParameterType="14" IsArrayParameter="False" ParameterValue="500" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.PtuCriteria.Temperature.PressureLevelToChangeTolerances" ParameterType="14" IsArrayParameter="False" ParameterValue="300" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.PtuCriteria.Temperature.SwitchToleranceFromPressureLimit" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.PtuCriteria.Temperature.SwitchToleranceFromTropopause" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.PtuCriteria.Temperature.Tolerance1" ParameterType="14" IsArrayParameter="False" ParameterValue="1" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.PtuCriteria.Temperature.Tolerance2" ParameterType="14" IsArrayParameter="False" ParameterValue="2" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.WindCriteria.CalcSigpToMissingLayer" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.WindCriteria.Direction.MinSpeed" ParameterType="14" IsArrayParameter="False" ParameterValue="5" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.WindCriteria.Direction.Tolerance1" ParameterType="14" IsArrayParameter="False" ParameterValue="10" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.WindCriteria.Direction.Tolerance2" ParameterType="14" IsArrayParameter="False" ParameterValue="10" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.WindCriteria.Direction.ToleranceToJoinWithSpeed" ParameterType="14" IsArrayParameter="False" ParameterValue="6" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.WindCriteria.Force100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.WindCriteria.Force1stSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.WindCriteria.MarkCalmLayersToSigps" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.WindCriteria.MarkMissingLayersToSigps" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.WindCriteria.MaxWind.LowPressureLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="500" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.WindCriteria.MaxWind.MinSpeed" ParameterType="14" IsArrayParameter="False" ParameterValue="30" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.WindCriteria.MaxWind.UseCanadianCriteria" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.WindCriteria.PressureLevelToChangeTolerances" ParameterType="14" IsArrayParameter="False" ParameterValue="3" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.WindCriteria.Speed.Tolerance1" ParameterType="14" IsArrayParameter="False" ParameterValue="5" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SIGP.WindCriteria.Speed.Tolerance2" ParameterType="14" IsArrayParameter="False" ParameterValue="5" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.StartStopDetection.EnableAutoStop" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.StartStopDetection.MaxFrameDelay" ParameterType="9" IsArrayParameter="False" ParameterValue="12" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.StartStopDetection.MinVelocity" ParameterType="14" IsArrayParameter="False" ParameterValue="1.9" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.StartStopDetection.SoundingStart" ParameterType="9" IsArrayParameter="False" ParameterValue="2" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.StartStopDetection.StartBufferSize" ParameterType="9" IsArrayParameter="False" ParameterValue="10" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.StdLevels.StdLevels" ParameterType="14" IsArrayParameter="True" ParameterValue="1000;925;850;700;500;400;300;250;200;150;100;70;50;30;20;10" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SynchronizedSoundingData.DataRate" ParameterType="9" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.SynchronizedSoundingData.WindInterpTreshold" ParameterType="9" IsArrayParameter="False" ParameterValue="5" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Calculations.WindFilter.FilterLevel" ParameterType="9" IsArrayParameter="False" ParameterValue="1" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Criteria.GapDuration.Humidity" ParameterType="14" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Criteria.GapDuration.Pressure" ParameterType="14" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Criteria.GapDuration.Temperature" ParameterType="14" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Criteria.GapDuration.Wind" ParameterType="14" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Criteria.GapHeight.Humidity" ParameterType="14" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Criteria.GapHeight.Pressure" ParameterType="14" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Criteria.GapHeight.Temperature" ParameterType="14" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Criteria.GapHeight.Wind" ParameterType="14" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Criteria.MaxHeight" ParameterType="14" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Criteria.Measurands" ParameterType="18" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Criteria.MinDuration" ParameterType="14" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Criteria.MinPressure" ParameterType="14" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.DB.AllowedVspEventsToScripts" ParameterType="18" IsArrayParameter="True" ParameterValue="VAI_SO_BALLOON_READY_FOR_RELEASE;VAI_SO_BALLOON_RELEASED;VAI_SO_SOUNDING_PREPARATION_STARTED" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.DB.AutomaticBackup" ParameterType="9" IsArrayParameter="False" ParameterValue="1" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.DB.BackupPath" ParameterType="18" IsArrayParameter="False" ParameterValue="C:\SoundingArchive" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.DB.BroadcastedDataTypes" ParameterType="18" IsArrayParameter="True" ParameterValue="GpsRawMeasurement;Radiosondes;RT20SystemStatus;RawPtu;SoundingInformation;StdPressureLevel;SurfaceObservations;SurfaceWeather;SynchronizedSoundingData;SystemEvent;UiStartInfo;RadioSpectrumData;RadioDiagnosticsEx;SignificantLevel;IonoCorrectionParameters;LaunchTimeSurfaceWeatherEstimate;RS92SpecialSensorData;Oif92Parameters;Oif411Parameters;RawOzone;CalculatedOzone;RS41SondeDiagnostics;AdditionalSensorData;StabilityIndex;GPSResult;VspEvent" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.DB.DeleteAbortedSoundings" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.DB.EnableSizeHandling" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.DB.ExportFilter" ParameterType="18" IsArrayParameter="True" ParameterValue="RadioSpectrumData;IntermediatePtu;MilGpsMeasurements;RS92PtuFrequencies;RDFResult;RS41PtuFrequencies;RS41SondeDiagnostics;RS41VolatileSoundingData;RS92SondeDiagnostics;GpsRawMeasurement_sonde" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.DB.GenerateSpfFileOnTermination" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.DB.ImportFilter" ParameterType="18" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.DB.MaxAmountOfSoundings" ParameterType="9" IsArrayParameter="False" ParameterValue="120" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.DB.MaxArchiveDuration" ParameterType="9" IsArrayParameter="False" ParameterValue="36000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.DB.MinRequiredBackupDiskSpace" ParameterType="9" IsArrayParameter="False" ParameterValue="50" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.DB.MinRequiredSoundingDiskSpace" ParameterType="9" IsArrayParameter="False" ParameterValue="20" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.DB.StoredDataTypes" ParameterType="18" IsArrayParameter="True" ParameterValue="GpsRawMeasurement;SondeAngles;GPSResult;GpsTimedRsFrame;PTUResult;RawPtu;SatelliteOrbit;SoundingInformation;StdPressureLevel;SurfaceObservations;SynchronizedSoundingData;SystemEvent;MilGpsMeasurements;SignificantLevel;RDFResult;GCCorr;RS92Data;RS41Data;RadioDiagnosticsEx;RadioSpectrumData;AdditionalSensorData;OzoneResult;RawOzone;CalculatedOzone;Oif92Parameters;Oif411Parameters;RS92SpecialSensorData;GSupport;IonoCorrectionParameters;StabilityIndex;RdfFrame;VspEvent;RT20SystemStatus" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.DB.UploadPath" ParameterType="18" IsArrayParameter="False" ParameterValue="C:\SoundingUpload" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.EnableSimulation" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.GC25.CustomerGCCorrectionLimits.CustomerGCCorrectionHumidityLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="4" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.GC25.CustomerGCCorrectionLimits.CustomerGCCorrectionPressureLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="3" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.GC25.CustomerGCCorrectionLimits.CustomerGCCorrectionTemperatureLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="1" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.GC25.DesiccantLimit" ParameterType="9" IsArrayParameter="False" ParameterValue="3" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.GC25.StabilizationDuration" ParameterType="9" IsArrayParameter="False" ParameterValue="120" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.GC25.StabilizationLevelCount" ParameterType="9" IsArrayParameter="False" ParameterValue="25" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.GC25.TemperatureLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="0.3" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.GC25.VaisalaGCCorrectionLimits.VaisalaGCCorrectionHumidityLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="4" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.GC25.VaisalaGCCorrectionLimits.VaisalaGCCorrectionPressureLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="3" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.GC25.VaisalaGCCorrectionLimits.VaisalaGCCorrectionTemperatureLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="1" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.MWH322.BAROCalibrationAcceptedOffset" ParameterType="9" IsArrayParameter="False" ParameterValue="5" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.MWH322.BaroModuleAveragingTime" ParameterType="9" IsArrayParameter="False" ParameterValue="10" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.MWH322.BaroModuleDisableStatus" ParameterType="9" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.MWH322.BaroModulePollInterval" ParameterType="9" IsArrayParameter="False" ParameterValue="10" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.MWH322.EnableBaroModule" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.MWH322.HumiditySelfCheckLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="2" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.MWH322.NonOfficeCondition" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.MWH322.NonOfficeConditionTemperatureSelfCheckLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="5" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.MWH322.PressureDifferenceLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="1" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.MWH322.TemperatureSelfCheckLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="3" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.AircraftIdentifier" ParameterType="18" IsArrayParameter="False" ParameterValue="////////" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="Local folder" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050.Header" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nIUJXXX XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050.Header100hPa" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nIUWXXX XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050_all.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="Local folder" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050_all.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050_all.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050_all.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050_all.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050_all.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050_all.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050_all.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050_all.Header" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nIUJXXX XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309050_all.Header100hPa" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nIUWXXX XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="Local folder" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051.Header" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nIUJXXX XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051.Header100hPa" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nIUWXXX XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051_all.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="Local folder" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051_all.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051_all.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051_all.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051_all.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051_all.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051_all.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051_all.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051_all.Header" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nIUJXXX XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309051_all.Header100hPa" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nIUWXXX XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="Local folder" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052.Header" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nIUSXXX XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052.Header100hPa" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nIUKXXX XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052_all.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="Local folder" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052_all.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052_all.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052_all.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052_all.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052_all.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052_all.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052_all.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052_all.Header" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nIUSXXX XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309052_all.Header100hPa" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nIUKXXX XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309053.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309053.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309053.AutoGenerate.GenerateAfterDescendingSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309053.Header" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nIUSXXX XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309053_all.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309053_all.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309053_all.AutoGenerate.GenerateAfterDescendingSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.BUFR309053_all.Header" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nIUSXXX XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.Footer" ParameterType="18" IsArrayParameter="False" ParameterValue="NNNN\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.MessageTimeRoundDown" ParameterType="9" IsArrayParameter="False" ParameterValue="30" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.MessageTimeRoundUp" ParameterType="9" IsArrayParameter="False" ParameterValue="30" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.OriginatingCentre" ParameterType="9" IsArrayParameter="False" ParameterValue="65535" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.OriginatingSubCentre" ParameterType="9" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.BUFR.RadioSondeAscensionNumber" ParameterType="9" IsArrayParameter="False" ParameterValue="-1" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.EnableMessageSendingInSimulation" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.GenerateMessagesWithOnlySurfaceObservations" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.METEO 11.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.METEO 11.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.METEO 11.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.METEO 11.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.METEO 11.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.METEO 11.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.METEO 11.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.METEO 11.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.METEO 11.Footer" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.METEO 11.FormatSpecifier" ParameterType="9" IsArrayParameter="False" ParameterValue="1" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.METEO 11.Header" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.METEO 11.HorizontalCodedLocation" ParameterType="18" IsArrayParameter="False" ParameterValue="///" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.METEO 11.SoundingPlatoonNumber" ParameterType="9" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.METEO 11.Variant" ParameterType="18" IsArrayParameter="False" ParameterValue="Standard" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.METEO 11.VerticalCodedLocation" ParameterType="18" IsArrayParameter="False" ParameterValue="///" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.Footer" ParameterType="18" IsArrayParameter="False" ParameterValue="=\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNNNN\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.HeaderPartA" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nUPXX99 XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.HeaderPartB" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nUGXX99 XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.HeaderPartC" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nUHXX99 XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.HeaderPartD" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nUQXX99 XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.HeightUnit" ParameterType="9" IsArrayParameter="False" ParameterValue="300" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.IsHeightBased" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT A.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="Local folder" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT A.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT A.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT A.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT A.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT A.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT A.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT A.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT B.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="Local folder" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT B.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT B.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT B.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT B.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT B.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT B.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT B.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT C.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="Local folder" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT C.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT C.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT C.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT C.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT C.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT C.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT C.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT D.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="Local folder" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT D.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT D.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT D.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT D.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT D.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT D.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.PILOT D.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.RegionalStdLevelHeights.Region1" ParameterType="14" IsArrayParameter="True" ParameterValue="1500;3000;5700;7500;9600;10800;12300;14100;16500;18600;20700;23400;25800;29700" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.RegionalStdLevelHeights.Region2" ParameterType="14" IsArrayParameter="True" ParameterValue="1500;3100;5800;7600;9500;10600;12300;14100;16600;18500;20500;24000;26500;31000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.RegionalStdLevelHeights.Region6" ParameterType="14" IsArrayParameter="True" ParameterValue="1500;3000;5400;7200;9000;10500;12000;13500;15900;18300;20700;23700;26400;30900" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.ReportSignificantLevelsOfWind" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.StdLevelHeights" ParameterType="14" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.UseAsecnaPractice" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.PILOT.UseHeightLevels" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.Reports.SoundingQualityReport.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="Local folder" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.Reports.SoundingQualityReport.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.Reports.SoundingQualityReport.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.Reports.SoundingQualityReport.AutoGenerate.GenerateAfterSoundingOrSoundingAborted" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.Reports.SoundingQualityReport.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.Reports.SoundingQualityReport.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.Reports.SoundingQualityReport.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.Reports.SoundingQualityReport.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.Reports.SoundingQualityReport.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.IsCodedLocation" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.Limits.MaxTimeOfValidity" ParameterType="9" IsArrayParameter="False" ParameterValue="9" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.Limits.MinTimeOfValidity" ParameterType="9" IsArrayParameter="False" ParameterValue="1" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB2.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB2.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB2.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB2.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB2.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="8000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB2.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB2.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB2.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB2.Footer" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB2.FormatSpecifier" ParameterType="9" IsArrayParameter="False" ParameterValue="2" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB2.Header" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB3.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB3.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB3.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB3.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB3.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="8000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB3.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB3.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB3.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB3.Footer" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB3.FormatSpecifier" ParameterType="9" IsArrayParameter="False" ParameterValue="2" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METB3.Header" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METCM.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METCM.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METCM.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METCM.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METCM.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="8000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METCM.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METCM.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METCM.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METCM.Footer" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METCM.FormatSpecifier" ParameterType="9" IsArrayParameter="False" ParameterValue="2" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METCM.Header" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METCM.QualityRatioTreshold" ParameterType="14" IsArrayParameter="False" ParameterValue="0.3" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METFM.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METFM.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METFM.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METFM.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METFM.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="8000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METFM.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METFM.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METFM.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METFM.Footer" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METFM.FormatSpecifier" ParameterType="9" IsArrayParameter="False" ParameterValue="2" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METFM.Header" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METGM.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METGM.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METGM.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METGM.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METGM.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="8000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METGM.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METGM.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METGM.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METGM.DataSource" ParameterType="18" IsArrayParameter="False" ParameterValue="VaisalaMW41Sounding" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METGM.Footer" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METGM.Header" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METGM.TimeStep" ParameterType="14" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSR.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSR.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSR.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSR.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSR.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="1000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSR.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSR.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSR.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSR.Footer" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSR.Header" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSRX.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSRX.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSRX.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSRX.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSRX.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="1000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSRX.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSRX.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSRX.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSRX.Footer" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METSRX.Header" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METTA.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METTA.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METTA.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METTA.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METTA.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="8000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METTA.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METTA.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METTA.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METTA.Footer" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METTA.FormatSpecifier" ParameterType="9" IsArrayParameter="False" ParameterValue="2" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METTA.Header" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METTA.Limits.MaxCloudCode" ParameterType="9" IsArrayParameter="False" ParameterValue="999" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.METTA.Limits.MinCloudCode" ParameterType="9" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.STANAG.WACP" ParameterType="18" IsArrayParameter="False" ParameterValue="XXXX" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.Footer" ParameterType="18" IsArrayParameter="False" ParameterValue="=\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNNNN\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.HeaderPartA" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nUSXX99 XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.HeaderPartB" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nUKXX99 XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.HeaderPartC" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nULXX99 XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.HeaderPartD" ParameterType="18" IsArrayParameter="False" ParameterValue="ZCZC\r\nUEXX99 XXXX ~SMD2~SMH200\r\n" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.MinDewPointAirTemperature" ParameterType="14" IsArrayParameter="False" ParameterValue="173.15" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.NationalPractices.ReportAllTropopauses" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.NationalPractices.ReportIncompleteTropopauses" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.NationalPractices.ReportTempSection7" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.NationalPractices.ReportTempSection8" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.NationalPractices.ReportTempSection9" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.PTUOnly" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP A.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="Local folder" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP A.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP A.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP A.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP A.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP A.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP A.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP A.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP B.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="Local folder" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP B.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP B.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP B.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP B.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP B.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP B.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP B.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP C.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="Local folder" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP C.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP C.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP C.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP C.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP C.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP C.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP C.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP D.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="Local folder" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP D.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP D.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP D.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP D.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP D.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP D.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.TEMP.TEMP D.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.CountryCode" ParameterType="9" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.DoubleSpaceAfterId" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.GroupsPerLine" ParameterType="9" IsArrayParameter="False" ParameterValue="9" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.HeaderTimeRoundDown" ParameterType="9" IsArrayParameter="False" ParameterValue="30" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.HeaderTimeRoundUp" ParameterType="9" IsArrayParameter="False" ParameterValue="30" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.MessageTimeRoundDown" ParameterType="9" IsArrayParameter="False" ParameterValue="30" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.MessageTimeRoundUp" ParameterType="9" IsArrayParameter="False" ParameterValue="30" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.MessageType" ParameterType="9" IsArrayParameter="False" ParameterValue="1" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.MinDewPointPressure" ParameterType="14" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.RegionalLevels.FirstRegion6Level" ParameterType="9" IsArrayParameter="False" ParameterValue="1000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.RegionalLevels.FixedAltitudeLevelsRegion1" ParameterType="14" IsArrayParameter="True" ParameterValue="600;900;2100;3900;4500;5100;21000;24000;27000;30000;33000;36000;39000;42000;45000;48000;51000;54000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.RegionalLevels.FixedAltitudeLevelsRegion2" ParameterType="14" IsArrayParameter="True" ParameterValue="300;600;900;2100;3600;4500;6000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.RegionalLevels.FixedAltitudeLevelsRegion3" ParameterType="14" IsArrayParameter="True" ParameterValue="300;600;900;2100;2400;4200;6000;8100;33000;36000;39000;42000;45000;48000;51000;54000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.RegionalLevels.FixedAltitudeLevelsRegion4" ParameterType="14" IsArrayParameter="True" ParameterValue="300;600;900;1200;1800;2100;2400;2700;3600;4200;4800;6000;7500;9000;10500;15000;21000;27000;30000;33000;42000;45000;48000;51000;54000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.RegionalLevels.FixedAltitudeLevelsRegion5" ParameterType="14" IsArrayParameter="True" ParameterValue="900;2100;4200" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.RegionalLevels.FixedAltitudeLevelsRegion6" ParameterType="14" IsArrayParameter="True" ParameterValue="900;2100;4200" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.RegionalLevels.FixedAltitudeLevelsRegion7" ParameterType="14" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.ReportExtraStationId" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.SIRadiationCorrection" ParameterType="9" IsArrayParameter="False" ParameterValue="4" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.SectionsStartWithNewLine" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.ShearWanted" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.Units.Altitude" ParameterType="18" IsArrayParameter="False" ParameterValue="meters" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Messages.WMO.Units.WindSpeed" ParameterType="18" IsArrayParameter="False" ParameterValue="Knots" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.RI41.BAROCalibrationAcceptedOffset" ParameterType="9" IsArrayParameter="False" ParameterValue="5" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.RI41.BaroModuleAveragingTime" ParameterType="9" IsArrayParameter="False" ParameterValue="10" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.RI41.BaroModulePollInterval" ParameterType="9" IsArrayParameter="False" ParameterValue="10" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.RI41.CustomerGCCorrectionLimits.CustomerGCCorrectionPressureLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="3" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.RI41.EnableBaroModule" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.RI41.HumiditySelfCheckLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="2" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.RI41.NonOfficeCondition" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.RI41.NonOfficeConditionTemperatureSelfCheckLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="5" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.RI41.StabilizationLevelCount" ParameterType="9" IsArrayParameter="False" ParameterValue="14" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.RI41.TemperatureSelfCheckLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="3" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.RI41.VaisalaGCCorrectionLimits.VaisalaGCCorrectionPressureLimit" ParameterType="14" IsArrayParameter="False" ParameterValue="3" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Reports.DirectionOfFireUnit" ParameterType="9" IsArrayParameter="False" ParameterValue="1" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Reports.HeaderColumnWidth" ParameterType="9" IsArrayParameter="False" ParameterValue="45" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Reports.Limits.ControlParameters.MaxElapsedTime" ParameterType="9" IsArrayParameter="False" ParameterValue="10800" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Reports.MaxLineLength" ParameterType="9" IsArrayParameter="False" ParameterValue="80" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Reports.PreviewLevelCount" ParameterType="9" IsArrayParameter="False" ParameterValue="1000" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Reports.Templates.Formout.AutoGenerate.Destinations" ParameterType="18" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Reports.Templates.Formout.AutoGenerate.Enable" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Reports.Templates.Formout.AutoGenerate.GenerateAfterSounding" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Reports.Templates.Formout.AutoGenerate.GenerateAt100hPaSigp" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Reports.Templates.Formout.AutoGenerate.Heights" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Reports.Templates.Formout.AutoGenerate.Pressures" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Reports.Templates.Formout.AutoGenerate.TimeFromLaunch" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Reports.Templates.Formout.AutoGenerate.UtcTime" ParameterType="9" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Reports.TruncateLayerHeaders" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Sonde.AllowedGPSFrequencies" ParameterType="14" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Sonde.AllowedRTFrequencies" ParameterType="14" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Sonde.EncryptedDataTransmission" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Sonde.ForbiddenFrequencyBands" ParameterType="1" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Sonde.GPSFrequency" ParameterType="14" IsArrayParameter="False" ParameterValue="403.25" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Sonde.NgpWindMode" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Sonde.RTFrequency" ParameterType="14" IsArrayParameter="False" ParameterValue="1680" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Sonde.RadioSilence.AltitudeFromLaunch" ParameterType="1" IsArrayParameter="False" ParameterValue="{1}{5000}" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Sonde.RadioSilence.TimeFromLaunch" ParameterType="1" IsArrayParameter="False" ParameterValue="{60}{1200}" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Sonde.RadioSilence.TriggerType" ParameterType="9" IsArrayParameter="False" ParameterValue="1" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Sonde.RegenerationDuration" ParameterType="9" IsArrayParameter="False" ParameterValue="180" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Sonde.SkipRS41UReconditioning" ParameterType="9" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Sonde.TransmitterPower" ParameterType="9" IsArrayParameter="False" ParameterValue="7" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Sonde.TransmitterPowerRS41D" ParameterType="9" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Station.AskLaunchSiteOffset" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Station.BarometerOffset" ParameterType="14" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Station.GpsAntennaOffset" ParameterType="14" IsArrayParameter="False" ParameterValue="1" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Station.LaunchSiteOffset" ParameterType="14" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Station.Location.Altitude" ParameterType="14" IsArrayParameter="False" ParameterValue="-32768" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Station.Location.Latitude" ParameterType="14" IsArrayParameter="False" ParameterValue="-32768" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Station.Location.Longitude" ParameterType="14" IsArrayParameter="False" ParameterValue="-32768" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Station.Location.UseFixedLocation" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Station.Name" ParameterType="18" IsArrayParameter="False" ParameterValue="CALICO" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Station.Type" ParameterType="9" IsArrayParameter="False" ParameterValue="1" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Station.WMO.WMORegion" ParameterType="9" IsArrayParameter="False" ParameterValue="4" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Station.WMO.WmoBlockNumber" ParameterType="9" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Station.WMO.WmoStationNumber" ParameterType="9" IsArrayParameter="False" ParameterValue="0" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.AdditionalValues.ShowASAPStatus" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.AdditionalValues.ShowCloudGroup" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.AdditionalValues.ShowSpecialInput" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.Limits.ASAP" ParameterType="1" IsArrayParameter="False" ParameterValue="{20}{99}" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.Limits.Humidity" ParameterType="1" IsArrayParameter="False" ParameterValue="{0}{100}" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.Limits.Pressure" ParameterType="1" IsArrayParameter="False" ParameterValue="{350}{1100}" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.Limits.SeaWaterTemperature" ParameterType="1" IsArrayParameter="False" ParameterValue="{268.15}{313.15}" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.Limits.Temperature" ParameterType="1" IsArrayParameter="False" ParameterValue="{213.15}{323.15}" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.Limits.WindDirection" ParameterType="1" IsArrayParameter="False" ParameterValue="{0}{360}" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.Limits.WindSpeed" ParameterType="1" IsArrayParameter="False" ParameterValue="{0}{100}" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.MaxDelayForWind" ParameterType="9" IsArrayParameter="False" ParameterValue="60" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.Mode" ParameterType="9" IsArrayParameter="False" ParameterValue="3" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.Regexps.CodedLocation" ParameterType="18" IsArrayParameter="False" ParameterValue="^[a-zA-Z0-9]{6,6}$" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.Regexps.MettaCloudCode" ParameterType="18" IsArrayParameter="False" ParameterValue="[0-9][0-9][0-9]|[/][/][/]$" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.Regexps.SpecialInput1" ParameterType="18" IsArrayParameter="False" ParameterValue="^[0-9/]{5,5}$" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.Regexps.SpecialInput2" ParameterType="18" IsArrayParameter="False" ParameterValue="^[0-9/]{5,5}$" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.Regexps.WmoCloudGroup" ParameterType="18" IsArrayParameter="False" ParameterValue="^[0-9/]{5,5}$" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.SurfaceWindSpeedInKnots" ParameterType="3" IsArrayParameter="False" ParameterValue="False" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.SurfaceObservations.TryReadFromSonde" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Termination.Height" ParameterType="1" IsArrayParameter="False" ParameterValue="{1}{65535}" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.Termination.Timer" ParameterType="1" IsArrayParameter="False" ParameterValue="{900}{65534}" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="Sounding.WatchdogDelay" ParameterType="9" IsArrayParameter="False" ParameterValue="5" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="System.GpsTime.PrevGpsWeek" ParameterType="9" IsArrayParameter="False" ParameterValue="94" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="System.GpsTime.RolloverCount" ParameterType="9" IsArrayParameter="False" ParameterValue="2" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="System.SoftwareVersions" ParameterType="18" IsArrayParameter="False" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="System.StationSettings" ParameterType="18" IsArrayParameter="True" ParameterValue="Sounding.DB.UploadPath;Sounding.DB.BackupPath;Sounding.Messages.WMO.MessageType;Sounding.Station.AskLaunchSiteOffset;Sounding.Station.BarometerOffset;Sounding.Station.GpsAntennaOffset;Sounding.Station.LaunchSiteOffset;Sounding.Station.Location.Altitude;Sounding.Station.Location.Latitude;Sounding.Station.Location.Longitude;Sounding.Station.Location.UseFixedLocation;Sounding.Station.Name;Sounding.Station.Type;Sounding.Station.WMO.WmoBlockNumber;Sounding.Station.WMO.WMORegion;Sounding.Station.WMO.WmoStationNumber;Devices.SWRadio.LocalIPAddress;Devices.SWRadio.RadioURI;Devices.SWRadio.Enabled;Devices.SWRadio.AntennaType;Devices.SWRadio.SignalThreshold;Devices.AWS.AWSDevice" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="System.SystemName" ParameterType="18" IsArrayParameter="False" ParameterValue="MW41" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="System.SystemTime.NTPServerUrls" ParameterType="18" IsArrayParameter="True" ParameterValue="" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="System.SystemTime.SetSystemTimeType" ParameterType="18" IsArrayParameter="False" ParameterValue="2" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="System.TimeSetInterval" ParameterType="9" IsArrayParameter="False" ParameterValue="4" />
+  <Row SoundingIdPk="4ff97d54-8241-4f5e-a2c4-26f2541cd0e1" ParameterNamePk="System.UseNm10Configuration" ParameterType="3" IsArrayParameter="False" ParameterValue="True" />
+</SoundingParameters>
