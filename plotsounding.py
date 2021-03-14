@@ -67,8 +67,8 @@ def read(fname):
     ## Parse the XML file and put into pandas.
 
     root = ET.XML(body)
-    varlist = ['Pressure','Temperature','Humidity','WindEast','WindNorth','WindSpeed','WindDir','Dropping']
-    columns=['Pressure','Temperature','Relative Humidity','Zonal Wind','Meridional Wind','Wind Speed','Wind Direction','Dropping']
+    varlist = ['Pressure','Height','Temperature','Humidity','WindEast','WindNorth','WindSpeed','WindDir','Dropping']
+    columns=['Pressure','Height','Temperature','Relative Humidity','Zonal Wind','Meridional Wind','Wind Speed','Wind Direction','Dropping']
     df = DataFrame(columns=columns)
 
     for row in root.findall("./Row"):
@@ -100,7 +100,7 @@ def execute():
     from soundingtools import Sounding
 
     # Input name of lowest-level folder where XML files live on S3 or locally.
-    date = '20210310_005335'       #Enter date (yyyymmdd).
+    date = '20210310_173235'       #Enter date (yyyymmdd).
 
     #station = ''            #Enter sonde launch site (1, 2, 3), including underscore before station number! (Future feature, ignore for now.)
 
@@ -117,6 +117,9 @@ def execute():
 
     # Convert the data to a NetCDF file.
     convert2netcdf(data)
+
+    # Write a sounding input into CM1.
+    sounding.makeCM1sounding(arr(data['Height']),'input_sounding_'+date)
 
     # Plot a sounding.
     plotsounding(arr(data['Pressure']),arr(data['Temperature']),Td=arr(data['Dewpoint']),qv=None,u=arr(data['Zonal Wind']),v=arr(data['Meridional Wind']),savename=date+'.pdf')
