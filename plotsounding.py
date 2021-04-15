@@ -100,7 +100,8 @@ def execute():
     from soundingtools import Sounding
 
     # Input name of lowest-level folder where XML files live on S3 or locally.
-    date = '20210310_173235'       #Enter date (yyyymmdd).
+    #date = '20210310_173235'       #Enter date (yyyymmdd).
+    date = '20210125'       #Enter date (yyyymmdd).
 
     #station = ''            #Enter sonde launch site (1, 2, 3), including underscore before station number! (Future feature, ignore for now.)
 
@@ -122,9 +123,9 @@ def execute():
     sounding.makeCM1sounding(arr(data['Height']),'input_sounding_'+date)
 
     # Plot a sounding.
-    plotsounding(arr(data['Pressure']),arr(data['Temperature']),Td=arr(data['Dewpoint']),qv=None,u=arr(data['Zonal Wind']),v=arr(data['Meridional Wind']),savename=date+'.pdf')
+    #plotsounding(arr(data['Pressure']),arr(data['Temperature']),Td=arr(data['Dewpoint']),qv=None,u=arr(data['Zonal Wind']),v=arr(data['Meridional Wind']),savename=date+'.pdf')
 
 
 #****************************************************************
 
-#execute()
+execute()
